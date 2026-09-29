@@ -1,0 +1,10 @@
+body {
+    color: black;
+    background-color: rgb(231, 173, 98);
+    font-family: "Garamond";
+}
+
+#h1info {
+    font-size: 75px;
+    font-style: oblique;
+}
